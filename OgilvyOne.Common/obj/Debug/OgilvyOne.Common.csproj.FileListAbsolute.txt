@@ -1,0 +1,8 @@
+D:\KC\GirlSpaceCampaign\src\KC.KotexSoft.Site\kc-kotex-soft\OgilvyOne.Common\obj\Debug\OgilvyOne.Common.csprojResolveAssemblyReference.cache
+D:\KC\GirlSpaceCampaign\src\KC.KotexSoft.Site\kc-kotex-soft\OgilvyOne.Common\obj\Debug\OgilvyOne.Common.dll
+D:\KC\GirlSpaceCampaign\src\KC.KotexSoft.Site\kc-kotex-soft\OgilvyOne.Common\obj\Debug\OgilvyOne.Common.pdb
+D:\KC\GirlSpaceCampaign\src\KC.KotexSoft.Site\kc-kotex-soft\OgilvyOne.Common\bin\Debug\OgilvyOne.Common.dll
+D:\KC\GirlSpaceCampaign\src\KC.KotexSoft.Site\kc-kotex-soft\OgilvyOne.Common\bin\Debug\OgilvyOne.Common.pdb
+D:\KC\GirlSpaceCampaign\src\KC.KotexSoft.Site\kc-kotex-soft\OgilvyOne.Common\bin\Debug\System.Web.Mvc.dll
+D:\KC\GirlSpaceCampaign\src\KC.KotexSoft.Site\kc-kotex-soft\OgilvyOne.Common\bin\Debug\System.Web.Mvc.xml
+D:\KC\GirlSpaceCampaign\src\KC.KotexSoft.Site\kc-kotex-soft\OgilvyOne.Common\bin\Debug\Elmah.dll

@@ -1,0 +1,104 @@
+﻿/*---Versrion 1----*/
+.backend_filter
+{
+	display: inline;
+	line-height: 1.6em;
+}
+
+	.backend_filter .select
+	{
+		padding: 0 6px;
+		float: left;
+		width: 14%;
+		display: block;
+		float: left;
+	}
+
+		.backend_filter .select select
+		{
+			width: 98%;
+		}
+
+	.backend_filter .title
+	{
+		padding: 0 6px;
+		float: left;
+		width: 22%;
+		display: block;
+		float: left;
+	}
+
+	.backend_filter .date
+	{
+		padding: 0 6px;
+		float: left;
+		width: 140px;
+		display: block;
+		float: left;
+	}
+
+	.backend_filter .button
+	{
+		display: block;
+		text-align: right;
+		float: right;
+		width: 150px;
+		padding-top: 16px;
+	}
+/*---Version Report From Query--*/
+.clear
+{
+	clear: both;
+}
+
+.search
+{
+	display: inline;
+	line-height: 1.6em;
+}
+
+	.search .select
+	{
+		padding: 0 6px 10px;
+		float: left;
+		width: 14%;
+	}
+
+		.search .select select
+		{
+			width: 98%;
+		}
+
+	.search .title
+	{
+		padding: 0 6px 10px;
+		float: left;
+		width: 20%;
+	}
+
+		.search .title input
+		{
+			width: 96%;
+		}
+
+	.search .date
+	{
+		padding: 0 6px 10px;
+		float: left;
+		width: 140px;
+	}
+
+	.search .checkbox
+	{
+		padding: 0 6px 10px;
+		float: left;
+		width: 80px;
+	}
+
+	.search .button
+	{
+		text-align: right;
+		float: right;
+		width: 150px;
+		padding-top: 16px;
+	}

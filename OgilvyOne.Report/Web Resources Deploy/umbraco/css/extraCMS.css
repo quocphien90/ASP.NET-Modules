@@ -1,0 +1,136 @@
+﻿.panel {
+    background: url("/umbraco_client/panel/images/panel_bg.gif") repeat-x scroll center top rgba(0, 0, 0, 0);
+    border: 0 none;
+    display: block;
+    font-size: 100%;
+    margin: 0 auto;
+    padding: 0;
+    position: relative;
+    width: 17em;
+}
+.panelstatus {
+    font-size: 100%;
+    margin: 0 auto;
+    width: 17em;
+}
+.panel .boxhead {
+    background: url("/umbraco_client/panel/images/panel_boxhead_bg.gif") no-repeat scroll left top rgba(0, 0, 0, 0);
+    border: 0 none;
+    display: block;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    text-align: center;
+    width: auto;
+}
+.panel .boxhead h2, .panel .boxfooter h2 {
+    background: url("/umbraco_client/panel/images/panel_boxhead_h2_bg.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
+    color: #378080;
+    display: block;
+    font-family: "Trebuchet MS",verdana,arial;
+    font-size: 10px;
+    font-weight: bold;
+    height: 14px;
+    margin: 0;
+    padding: 3px 0 1px 10px;
+    text-align: left;
+    width: auto;
+}
+.panel .boxbody {
+    background: url("/umbraco_client/panel/images/panel_boxfooter_bg.gif") repeat-y scroll left bottom #FFFFFF;
+    border-right: 1px solid #CAC9C9;
+    border-top: 1px solid #CAC9C9;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    height: 90%;
+    overflow: auto;
+}
+.panel .boxfooter {
+    background: url("/umbraco_client/panel/images/panel_boxfooter_bg.gif") repeat-x scroll 11px 11px #FFFFFF;
+    height: 12px;
+    margin: 0;
+    padding: 0;
+}
+.panel .boxfooter .statusBar {
+    background: url("/umbraco_client/panel/images/panel_boxfooter_statusBar_bg.gif") no-repeat scroll left top rgba(0, 0, 0, 0);
+    height: 12px;
+    margin: 0;
+}
+.panel .boxfooter .statusBar h2 {
+    background: url("/umbraco_client/panel/images/panel_boxfooter_statusBar_h2_bg.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
+    display: block;
+    height: 12px;
+    margin: 0;
+    padding: 0;
+}
+.panelstatus .boxfooter {
+    color: #999999;
+    font-size: 9px;
+    height: 15px;
+    margin: 0;
+    padding: 5px 0 8px 15px;
+}
+.panel .content {
+    margin: 0;
+    overflow: auto;
+    padding: 0 10px;
+    position: relative;
+    width: auto !important;
+}
+.panel .content .innerContent {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.panel .content h2 {
+    border-bottom: 1px solid #CCCCCC;
+    color: #333333;
+    font-family: Trebuchet MS,Lucida Grande,verdana,arial;
+    margin: 0 0 10px;
+    padding: 0 0 5px;
+}
+.panel h3 {
+    font-size: 12px;
+    margin: 5px 0 10px;
+}
+
+
+/*  --------------  Table Search  ---------------  */
+.SearchBox {margin-bottom: 10px;}
+.SearchBox td{bordeR: none; padding: 0 15px 5px 0;}
+
+/*  --------------  Action Box  ---------------  */
+
+
+/*  --------------  Language Box  ---------------  */
+.LanguageTable{margin-bottom: 10px;}
+.LanguageTable .tab-content {
+    border: 1px solid #999999;
+    padding: 5px;
+}
+.LanguageTable a.LangButton{
+	padding: 5px 10px 3px;
+	background-color: #ddd;
+	text-decoration: none;
+	border: 1px solid #999;
+	border-bottom: none;
+}
+.LanguageTable a.LangButton.current{
+	padding-bottom: 5px;
+	background-color: #fff;
+}
+.LanguageTable .tab-content {
+    border: 1px solid #999999;
+    margin-top: 3px;
+    padding: 5px;
+}
+
+/* ------------------  Table Form  ------------------------ */
+.tableForm td{padding: 10px 5px 5px 5px;}
+.tableForm td:nth-child(2n+1){background-color: #efefef;}
+.tableForm td:nth-child(2n){}
+.tableForm input[type="text"]{border: none; border-bottom: 1px dashed #999; margin-right: 5px;}
+.tableForm input[type="text"].wide {width: 200px;}
+
+
